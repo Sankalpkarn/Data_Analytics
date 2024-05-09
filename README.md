@@ -17,7 +17,6 @@
         <li><a href="#technologies-used">Technologies Used</a></li>
         <li><a href="#usage">Usage</a></li>
         <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
     </ul>
 
   <h2 id="overview">Overview</h2>
@@ -43,8 +42,7 @@
     
   <h2 id="contributing">Contributing</h2>
     <p>If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.</p>
-        <h2 id="license">License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+        
     
 </body>
 </html>
